@@ -5,7 +5,7 @@ A ideia é ter um guia rápido dos tópicos do curso e fazer link com post em me
 ## Estrutura do curso
 
 * Seção 7: Coleções em Python
-  * Listas;
+  * [Listas](Secao007/01-Listas.md);
   * Tuplas;
   * Dicionários;
   * Mapas;
